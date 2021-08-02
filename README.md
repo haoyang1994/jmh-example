@@ -1,13 +1,13 @@
 # jmh-example
 A jmh example - comparing micrometer and native prometheus performance
 
-# Run
+### Run
 
 1. ```mvn clean verify```
 2. ```java -jar target/benchmarks.jar```
 
 
-# My Local BenchMark Result
+### My Local BenchMark Result
 
 ```
 Benchmark                 Mode  Cnt         Score        Error  Units
